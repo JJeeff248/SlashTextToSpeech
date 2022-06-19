@@ -1,0 +1,9 @@
+credentials.py
+
+__pycache__/
+slashtts/
+audio_files/
+
+voice_list.txt
+add_voices.py
+discord.log

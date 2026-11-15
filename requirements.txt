@@ -11,7 +11,7 @@ discord.py @ git+https://github.com/Rapptz/discord.py@64849ebcc84c38c305f2ade21b
 ffmpeg==1.4
 frozenlist==1.8.0
 idna==3.20
-lxml==4.9.4
+lxml==6.1.0
 multidict==6.9.1
 pycodestyle==2.8.0
 pycparser==2.21
